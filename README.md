@@ -38,11 +38,11 @@ I am extremely passionate about Computer Vision and other Deep Learning applicat
 ### Leave your Thoughts for Me✍️ - [ Just Comment Here! ](https://github.com/sawradip/sawradip/issues/1#issuecomment-new)
 
 
-## Countries I live in
+<!-- ## Countries I live in
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
 
 
 ## Languages I Speak
