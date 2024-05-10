@@ -1,12 +1,13 @@
 <p align="center"><a href="https://github.com/sawradip"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Sawradip's+Github+Profile" alt="Typing SVG" /></a></p>
 
+<p align="center">
 <a href="https://github.com/sawradip/sawradip/stargazers"><img src="https://img.shields.io/github/stars/sawradip/sawradip" alt="Stars Badge"/></a>
 <a href="https://github.com/sawradip/sawradip/network/members"><img src="https://img.shields.io/github/forks/sawradip/sawradip" alt="Forks Badge"/></a>
 <a href="https://github.com/sawradip/sawradip/pulls"><img src="https://img.shields.io/github/issues-pr/sawradip/sawradip" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/sawradip/sawradip/issues"><img src="https://img.shields.io/github/issues/sawradip/sawradip" alt="Issues Badge"/></a>
 <a href="https://github.com/sawradip/sawradip/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sawradip/sawradip?color=2b9348"></a>
 <a href="https://github.com/sawradip/sawradip/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sawradip/sawradip?color=2b9348" alt="License Badge"/></a>
-
+</p>
 
 <h2> Hi, I'm Sawradip Saha 👋 </h2>
 
